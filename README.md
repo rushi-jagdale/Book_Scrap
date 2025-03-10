@@ -16,9 +16,10 @@ A Python web scraping project to extract book information from Books to Scrape, 
 ```bash
 git clone https://github.com/rushi-jagdale/Book_Scrap.git
 cd Book_Scrap
-## Install requirement
+#Install requirement
+''' bash
 pip install -r requirements.txt
 
 ## Run
-
+''' bash
 python main.py
